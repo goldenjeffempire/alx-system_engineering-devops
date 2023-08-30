@@ -1,1 +1,2 @@
-/tmp/iamafile
+#!/bin/bash
+touch /tmp/iamafile
