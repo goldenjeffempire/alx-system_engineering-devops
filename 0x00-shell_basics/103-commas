@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m sort -d -lk1.1,1.2 -k1.3/n
+ls -p | tr '/n' ', ' 
