@@ -1,0 +1,2 @@
+#!/bin/bash
+la -A1p / sort -d -k1.1,1.2 -k1.3 /tr '/n' '
